@@ -1,6 +1,6 @@
 # Model Documentation Materials 
 
-1. Comprehensive System Dynamics Model of the HIV Care Continuum: Overview manual
+1. Comprehensive System Dynamics Model of the HIV Care Continuum: Overview Manual
 2. Table 1: HIV CVL SDM variable definitions HIV Infect Treatment as Prevention
 3. Table 2: HIV CVL SDM variable definitions HIV Prevention and Testing
 4. Table 3: HIV CVL SDM variable definitions Medical Care Services
